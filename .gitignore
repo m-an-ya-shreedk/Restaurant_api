@@ -62,8 +62,4 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.tempp
-
-# Dependency lock files
-package-lock.json
-yarn.lock
+*.temp
